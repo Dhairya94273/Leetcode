@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Dhairya94273/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0054-spiral-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
