@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dhairya94273/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Dhairya94273/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhairya94273/Leetcode/tree/master/0509-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dhairya94273/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Dhairya94273/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhairya94273/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Dhairya94273/Leetcode/tree/master/0567-permutation-in-string) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Dhairya94273/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## String
 |  |
 | ------- |
