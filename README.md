@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhairya94273/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhairya94273/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +37,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
