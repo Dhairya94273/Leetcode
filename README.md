@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhairya94273/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
+| [0046-permutations](https://github.com/Dhairya94273/Leetcode/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Dhairya94273/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
