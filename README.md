@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Dhairya94273/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhairya94273/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1929-concatenation-of-array](https://github.com/Dhairya94273/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dhairya94273/Leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhairya94273/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1929-concatenation-of-array](https://github.com/Dhairya94273/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
