@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Dhairya94273/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Dhairya94273/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dhairya94273/Leetcode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
