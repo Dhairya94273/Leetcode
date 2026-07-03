@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/Dhairya94273/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,8 +40,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhairya94273/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Dhairya94273/Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Dhairya94273/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
