@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Dhairya94273/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhairya94273/Leetcode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhairya94273/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhairya94273/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhairya94273/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Memoization
 |  |
 | ------- |
