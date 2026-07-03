@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dhairya94273/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Dhairya94273/Leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Dhairya94273/Leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Dhairya94273/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dhairya94273/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Dhairya94273/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
