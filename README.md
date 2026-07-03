@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhairya94273/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Dhairya94273/Leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Dhairya94273/Leetcode/tree/master/0326-power-of-three) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhairya94273/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhairya94273/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Dhairya94273/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhairya94273/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Dhairya94273/Leetcode/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhairya94273/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Dhairya94273/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Dhairya94273/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Counting
 |  |
