@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhairya94273/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0867-transpose-matrix) |
 | [1470-shuffle-the-array](https://github.com/Dhairya94273/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhairya94273/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Dhairya94273/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhairya94273/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhairya94273/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Backtracking
 |  |
 | ------- |
