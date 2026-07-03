@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhairya94273/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Dhairya94273/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Dhairya94273/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhairya94273/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Dhairya94273/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dhairya94273/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Dhairya94273/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Dhairya94273/Leetcode/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
