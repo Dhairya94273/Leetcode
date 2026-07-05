@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Dhairya94273/Leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Dhairya94273/Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Dhairya94273/Leetcode/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/Dhairya94273/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dhairya94273/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhairya94273/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
