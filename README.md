@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dhairya94273/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhairya94273/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Dhairya94273/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Dhairya94273/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dhairya94273/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Dhairya94273/Leetcode/tree/master/0258-add-digits) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Dhairya94273/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Dhairya94273/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Dhairya94273/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dhairya94273/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dhairya94273/Leetcode/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dhairya94273/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Dhairya94273/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Dhairya94273/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhairya94273/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Dhairya94273/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dhairya94273/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Dhairya94273/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhairya94273/Leetcode/tree/master/0349-intersection-of-two-arrays) |
