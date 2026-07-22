@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Dhairya94273/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Dhairya94273/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Dhairya94273/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Dhairya94273/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Dhairya94273/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dhairya94273/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dhairya94273/Leetcode/tree/master/0231-power-of-two) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dhairya94273/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhairya94273/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Dhairya94273/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dhairya94273/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Dhairya94273/Leetcode/tree/master/0078-subsets) |
