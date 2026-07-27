@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Dhairya94273/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhairya94273/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/Dhairya94273/Leetcode/tree/master/3099-harshad-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhairya94273/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhairya94273/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhairya94273/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
