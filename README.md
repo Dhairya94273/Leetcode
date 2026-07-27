@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Dhairya94273/Leetcode/tree/master/1952-three-divisors) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Dhairya94273/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Dhairya94273/Leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2235-add-two-integers](https://github.com/Dhairya94273/Leetcode/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhairya94273/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhairya94273/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
