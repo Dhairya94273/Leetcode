@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Dhairya94273/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Dhairya94273/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/Dhairya94273/Leetcode/tree/master/1952-three-divisors) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Dhairya94273/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/Dhairya94273/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhairya94273/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Dhairya94273/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dhairya94273/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/Dhairya94273/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Dhairya94273/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2596-check-knight-tour-configuration](https://github.com/Dhairya94273/Leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dhairya94273/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
