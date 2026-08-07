@@ -15,23 +15,23 @@ public:
     Node *head, *tail;
     unordered_map<int, Node*> m;
     int capacity;
-    
-    void addNode(Node *newNode) {//O(1)
-        Node *temp = head->next;
 
-        //Add Node after head because it is the Most Recently Used(MRU)
+    void addNode(Node* newNode) { // O(1)
+        Node* temp = head->next;
+
+        // Add Node after head because it is the Most Recently Used(MRU)
         newNode->next = temp;
         newNode->prev = head;
 
         head->next = newNode;
         temp->prev = newNode;
     }
-    
-    void delNode(Node *node) {//O(1)
-        Node *prevNode = node->prev;
-        Node *nextNode = node->next;
 
-        //Connect previous node with next node
+    void delNode(Node* node) { // O(1)
+        Node* prevNode = node->prev;
+        Node* nextNode = node->next;
+
+        // Connect previous node with next node
         prevNode->next = nextNode;
         nextNode->prev = prevNode;
     }
@@ -46,45 +46,45 @@ public:
         tail->prev = head;
     }
 
-    int get(int key) {//O(1)
+    int get(int key) { // O(1)
 
-        //If key is not present then return -1
+        // If key is not present then return -1
         if (m.find(key) == m.end())
             return -1;
 
-        Node *node = m[key];
+        Node* node = m[key];
 
-        //When we access any key it becomes Most Recently Used(MRU)
+        // When we access any key it becomes Most Recently Used(MRU)
         delNode(node);
         addNode(node);
 
         return node->val;
     }
 
-    void put(int key, int value) {//O(1)
+    void put(int key, int value) { // O(1)
 
-        //If key already exists then delete the old node
+        // If key already exists then delete the old node
         if (m.find(key) != m.end()) {
 
-            Node *existing = m[key];
+            Node* existing = m[key];
 
             delNode(existing);
             m.erase(key);
             delete existing;
         }
 
-        //If cache is full then remove Least Recently Used(LRU) node
+        // If cache is full then remove Least Recently Used(LRU) node
         if (m.size() == capacity) {
 
-            Node *lru = tail->prev;
+            Node* lru= tail->prev;
 
             m.erase(lru->key);
             delNode(lru);
             delete lru;
         }
 
-        //Insert new node at front because it is now MRU
-        Node *newNode = new Node(key, value);
+        // Insert new node at front because it is now MRU
+        Node* newNode = new Node(key, value);
 
         addNode(newNode);
 
