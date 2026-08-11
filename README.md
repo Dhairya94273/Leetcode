@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Dhairya94273/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Dhairya94273/Leetcode/tree/master/0877-stone-game) |
 | [1470-shuffle-the-array](https://github.com/Dhairya94273/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Dhairya94273/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhairya94273/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/Dhairya94273/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Dhairya94273/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dhairya94273/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Dhairya94273/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Dhairya94273/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/Dhairya94273/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Memoization
 |  |
