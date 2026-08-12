@@ -262,6 +262,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhairya94273/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dhairya94273/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Dhairya94273/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+Book-Allocation-Problem
+Painter-Partition-Problem
+Aggresive-Cow-Problem
 ## Bit Manipulation
 |  |
 | ------- |
