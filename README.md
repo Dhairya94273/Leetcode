@@ -404,6 +404,8 @@ Aggresive-Cow-Problem
 | [0232-implement-queue-using-stacks](https://github.com/Dhairya94273/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 
 ##Binary Tree
-kth_level_of_binary_tree.cpp
-top_view_of_binary_tree
+| |
+| ------- |
+| [kth_level_of_binary_tree.cpp]
+| [top_view_of_binary_tree]
 <!---LeetCode Topics End-->
